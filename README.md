@@ -2,17 +2,17 @@
 
 These are two project both have installed @nestjs/microservices
 
-## Transporter is RabbitMQ
+Transporter is RabbitMQ
 
 ### admin
 
-## Databse is mysql
+=> Databse is mysql
 
 here we create/delete a post it push a event which is listen by main app.
 
 ### main
 
-## Databse is mongodb
+=> Databse is mongodb
 
 Listener to events from admin app, as well make a http call to admin to update the like
 
